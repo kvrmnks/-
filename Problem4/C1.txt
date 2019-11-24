@@ -1,0 +1,4 @@
+Math 1 6
+ComputerScience 2 4
+Chinese 3 23
+English 4 2333

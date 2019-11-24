@@ -1,0 +1,5 @@
+ComputerScience 2 4
+Duliu 5 3
+Chinese 3 23
+BuDuliu 6 4
+English 4 2333

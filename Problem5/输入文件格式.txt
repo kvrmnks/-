@@ -1,0 +1,4 @@
+对于Staff:
+number name age salary
+对于Student:
+number name age english math program
